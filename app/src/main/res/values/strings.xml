@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">pindah activity</string>
+    <string name="move_activity">move</string>
+    <string name="move_with_data">movedata</string>
+    <string name="dial_number">dialnumber</string>
+    <string name="this_is_moveactivity">move</string>
+</resources>
